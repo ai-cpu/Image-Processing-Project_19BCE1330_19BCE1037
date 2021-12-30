@@ -1,6 +1,6 @@
 # Image-Processing-Project_19BCE1330_19BCE1037
 Natural Disaster Detection
-Click here to download the source code to this post
+
 
 In this tutorial, you will learn how to automatically detect natural disasters (earthquakes, floods, wildfires, cyclones/hurricanes) with up to 95% accuracy using Keras, Computer Vision, and Deep Learning.
 
@@ -50,7 +50,7 @@ To learn how to detect natural disasters with Keras, Computer Vision, and Deep L
 
 
 Looking for the source code to this post?
-JUMP RIGHT TO THE DOWNLOADS SECTION 
+
 Detecting Natural Disasters 
 In the first part of this tutorial, we’ll discuss how computer vision and deep learning algorithms can be used to automatically detect natural disasters in images and video streams.
 
